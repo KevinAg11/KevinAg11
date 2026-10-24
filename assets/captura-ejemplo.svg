@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-label="Captura de ejemplo de un proyecto">
+  <title>Captura de ejemplo de proyecto</title>
+  <rect width="1200" height="760" fill="#e2e8f0"/>
+  <rect x="40" y="40" width="1120" height="680" rx="16" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+  <path d="M40 56 a16 16 0 0 1 16 -16 h1088 a16 16 0 0 1 16 16 v44 h-1120 z" fill="#0f172a"/>
+  <circle cx="76" cy="70" r="9" fill="#f87171"/>
+  <circle cx="106" cy="70" r="9" fill="#fbbf24"/>
+  <circle cx="136" cy="70" r="9" fill="#4ade80"/>
+  <rect x="190" y="55" width="640" height="30" rx="15" fill="#1e293b"/>
+  <text x="210" y="76" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#94a3b8">TU-PORTAFOLIO.com/proyecto</text>
+  <rect x="80" y="140" width="320" height="30" rx="6" fill="#0f172a"/>
+  <rect x="80" y="190" width="520" height="16" rx="8" fill="#94a3b8"/>
+  <rect x="80" y="220" width="460" height="16" rx="8" fill="#cbd5e1"/>
+  <rect x="80" y="262" width="150" height="44" rx="22" fill="#0284c7"/>
+  <text x="155" y="291" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#ffffff">Ver demo</text>
+  <rect x="80" y="350" width="320" height="300" rx="12" fill="#e0f2fe"/>
+  <rect x="440" y="350" width="320" height="300" rx="12" fill="#ede9fe"/>
+  <rect x="800" y="350" width="320" height="300" rx="12" fill="#ccfbf1"/>
+  <rect x="104" y="378" width="160" height="16" rx="8" fill="#0284c7"/>
+  <rect x="464" y="378" width="160" height="16" rx="8" fill="#7c3aed"/>
+  <rect x="824" y="378" width="160" height="16" rx="8" fill="#0d9488"/>
+  <text x="600" y="690" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#64748b">CAPTURA DE EJEMPLO &#8212; reempl&#225;zala por la de tu proyecto</text>
+</svg>

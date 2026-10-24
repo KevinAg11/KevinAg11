@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400" role="img" aria-label="Avatar de ejemplo">
+  <title>Foto de ejemplo</title>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#g)"/>
+  <circle cx="200" cy="155" r="70" fill="#f8fafc" opacity="0.95"/>
+  <path d="M60 400 C60 290 130 245 200 245 C270 245 340 290 340 400 Z" fill="#f8fafc" opacity="0.95"/>
+  <text x="200" y="385" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#0f172a">TU FOTO AQU&#205;</text>
+</svg>

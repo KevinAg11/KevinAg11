@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-label="Banner de ejemplo: TU NOMBRE, Desarrollador de software">
+  <title>Banner de ejemplo (modo oscuro)</title>
+  <defs>
+    <linearGradient id="fondo" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="0.55" stop-color="#1e1b4b"/>
+      <stop offset="1" stop-color="#0b3b4a"/>
+    </linearGradient>
+    <linearGradient id="acento" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="400" fill="url(#fondo)"/>
+  <circle cx="1120" cy="60" r="200" fill="#38bdf8" opacity="0.08"/>
+  <circle cx="1220" cy="360" r="150" fill="#a78bfa" opacity="0.10"/>
+  <circle cx="90" cy="380" r="120" fill="#38bdf8" opacity="0.06"/>
+  <g fill="none" stroke="#94a3b8" stroke-opacity="0.25" stroke-width="2">
+    <path d="M900 120 L860 200 L900 280"/>
+    <path d="M1000 120 L1040 200 L1000 280"/>
+    <path d="M965 105 L935 295"/>
+  </g>
+  <rect x="80" y="250" width="160" height="6" rx="3" fill="url(#acento)"/>
+  <text x="80" y="170" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#94a3b8" letter-spacing="6">PORTAFOLIO &#183; GITHUB</text>
+  <text x="80" y="228" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="bold" fill="#f8fafc">TU NOMBRE</text>
+  <text x="80" y="310" font-family="Arial, Helvetica, sans-serif" font-size="34" fill="#e2e8f0">Desarrollador de software</text>
+  <text x="80" y="354" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#94a3b8">SENA &#183; Tecn&#243;logo en An&#225;lisis y Desarrollo de Software</text>
+</svg>
