@@ -7,8 +7,7 @@
      Si solo tienes una imagen, usa únicamente la etiqueta <img> y borra el <picture>. -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner-claro.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/Kevin.webp">
     <img alt="Banner de KevinAg11: desarrollador de software" src="assets/Kevin.webp" width="100%">
   </picture>
 </p>
