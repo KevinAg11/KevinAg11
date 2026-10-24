@@ -9,7 +9,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/banner-claro.svg">
-    <img alt="Banner de KevinAg11: desarrollador de software" src="assets/banner.svg" width="100%">
+    <img alt="Banner de KevinAg11: desarrollador de software" src="assets/Kevin.webp" width="100%">
   </picture>
 </p>
 
@@ -23,7 +23,7 @@
   <a href="https://discord.com/users/TU-ID-DISCORD"><img alt="Discord (opcional)" src="https://img.shields.io/badge/Discord-opcional-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 
-## Hola, soy TU-NOMBRE 👋
+## Hola, soy Kevin 👋
 <!-- ✏️ EDITA: escribe tu nombre real. -->
 
 > 📌 **Aviso:** estoy buscando mi primera oportunidad (práctica o empleo junior). Si tienes una vacante, ¡escríbeme!
@@ -42,10 +42,9 @@ Estoy en etapa de formación: he desarrollado proyectos de clase y personales qu
 
 <!-- ✏️ EDITA: datos personales que quieras compartir (nada sensible). -->
 - 🎓 Estudiando: Tecnólogo en Análisis y Desarrollo de Software (SENA, jornada noche)
-- 🌱 Aprendiendo ahora: TU-TEMA (ej. React, pruebas, Docker)
-- 🤝 Pregúntame sobre: TU-TEMA (ej. HTML y CSS, Git básico)
-- ⚡ Dato curioso: TU-DATO
-- 🗣️ Idiomas: Español (nativo) · Inglés (nivel TU-NIVEL)
+- 🌱 Aprendiendo ahora: PostgreSQL (ej. React, pruebas, Docker) (ej. HTML y CSS, Git básico)
+- ⚡ Dato curioso: Muchos Proyectos
+- 🗣️ Idiomas: Español (nativo) · Inglés (A2)
 
 </details>
 
