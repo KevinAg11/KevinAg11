@@ -1,12 +1,3 @@
-<!--
-  ╔══════════════════════════════════════════════════════════════╗
-  ║  PLANTILLA DE README DE PERFIL DE GITHUB — SENA ADSO         ║
-  ║  Copia este archivo (y la carpeta assets/) a tu repo         ║
-  ║  TU-USUARIO/TU-USUARIO. Lee GUIA.md para el paso a paso.    ║
-  ║  Busca "✏️ EDITA" para encontrar todo lo que debes cambiar.  ║
-  ║  Cuando termines, borra los comentarios que ya no necesites. ║
-  ╚══════════════════════════════════════════════════════════════╝
--->
 
 <h1 align="center">Bienvenidos a mi Portafolio</h1>
 <h3 align="center">Desarrollador de software junior · Aprendiz SENA ADSO</h3>
@@ -18,14 +9,14 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/banner-claro.svg">
-    <img alt="Banner de TU-NOMBRE: desarrollador de software" src="assets/banner.svg" width="100%">
+    <img alt="Banner de KevinAg11: desarrollador de software" src="assets/banner.svg" width="100%">
   </picture>
 </p>
 
 <!-- ✏️ EDITA: cambia TU-USUARIO en cada badge. Los de Discord/NPM/LinkedIn son opcionales: borra los que no uses. -->
 <p align="center">
-  <a href="https://github.com/TU-USUARIO?tab=followers"><img alt="Seguidores" src="https://img.shields.io/github/followers/TU-USUARIO?style=for-the-badge&logo=github&label=Seguidores"></a>
-  <a href="https://github.com/TU-USUARIO?tab=repositories"><img alt="Estrellas" src="https://img.shields.io/github/stars/TU-USUARIO?style=for-the-badge&logo=github&label=Estrellas"></a>
+  <a href="https://github.com/KevinAg11?tab=followers"><img alt="Seguidores" src="https://img.shields.io/github/followers/TU-USUARIO?style=for-the-badge&logo=github&label=Seguidores"></a>
+  <a href="https://github.com/KevinAg11?tab=repositories"><img alt="Estrellas" src="https://img.shields.io/github/stars/TU-USUARIO?style=for-the-badge&logo=github&label=Estrellas"></a>
   <img alt="Visitas al perfil" src="https://komarev.com/ghpvc/?username=TU-USUARIO&style=for-the-badge&label=Visitas">
   <a href="https://www.linkedin.com/in/TU-USUARIO-LINKEDIN/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conecta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.npmjs.com/~TU-USUARIO"><img alt="NPM (opcional)" src="https://img.shields.io/badge/npm-opcional-CB3837?style=for-the-badge&logo=npm&logoColor=white"></a>
